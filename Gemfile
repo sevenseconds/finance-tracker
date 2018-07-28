@@ -7,6 +7,7 @@ end
 
 gem 'devise'
 gem 'devise-bootstrap-views'
+gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
